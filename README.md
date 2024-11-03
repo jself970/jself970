@@ -3,6 +3,7 @@
 I am a SANS cybersecurity student who will be receiving a BS in the spring of 2025. 
 
 ### My certifications:
+[GIAC Certified Forensic Examiner (GCFE)](https://www.credly.com/badges/326ad7d8-bd07-4ca1-8cc8-e2663016297a)
 
 [GIAC Certified Intrusion Analyst (GCIA)](https://www.credly.com/badges/bf838c5a-03ec-4856-addd-04b81e5cc0a8)
 
