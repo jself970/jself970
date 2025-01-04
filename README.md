@@ -5,6 +5,7 @@ I am a SANS cybersecurity graduate (BS) who is currently seeking work in the pub
 Sometimes I do CTF challenges, so here are some of my past performances:
 
 1st place - [NCL Fall 2024 Team Standard Bracket](https://cyberskyline.com/report/02UBGQH38H3E)
+
 22nd place - [NCL Fall 2024 Solo Standard Bracket](https://cyberskyline.com/report/3FCQ51HVEVFE)
 
 ### My certifications:
