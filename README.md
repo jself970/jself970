@@ -1,8 +1,10 @@
 # Hello, World! 👋
 
-I am a SANS cybersecurity student who will be receiving a BS in the spring of 2025. 
+I am a SANS cybersecurity graduate (BS) who is currently seeking work in the public sector. 
 
 ### My certifications:
+[GIAC Critical Controls Certification (GCCC)](https://www.credly.com/badges/acfb6c9c-ca91-47e5-800b-baa80e09666e)
+
 [GIAC Certified Forensic Examiner (GCFE)](https://www.credly.com/badges/326ad7d8-bd07-4ca1-8cc8-e2663016297a)
 
 [GIAC Certified Intrusion Analyst (GCIA)](https://www.credly.com/badges/bf838c5a-03ec-4856-addd-04b81e5cc0a8)
