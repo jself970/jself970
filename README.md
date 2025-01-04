@@ -2,6 +2,11 @@
 
 I am a SANS cybersecurity graduate (BS) who is currently seeking work in the public sector. 
 
+Sometimes I do CTF challenges, so here are some of my past performances:
+
+1st place - [NCL Fall 2024 Team Standard Bracket](https://cyberskyline.com/report/02UBGQH38H3E)
+22nd place - [NCL Fall 2024 Solo Standard Bracket](https://cyberskyline.com/report/3FCQ51HVEVFE)
+
 ### My certifications:
 [GIAC Critical Controls Certification (GCCC)](https://www.credly.com/badges/acfb6c9c-ca91-47e5-800b-baa80e09666e)
 
